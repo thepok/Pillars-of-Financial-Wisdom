@@ -10,12 +10,12 @@ invest without forecasts (Exceptions only if you are a leading expert in the top
 don't double up on bad trades
 
 ## Can't reliable beat the market, exept with Factor Etfs
-* *Value.
-* *Small Caps.
-* *Momentum.
-* *Low Volatility.
-* *Dividenden.
-* *Quality.
+* * Value.
+* * Small Caps.
+* * Momentum.
+* * Low Volatility.
+* * Dividenden.
+* * Quality.
 
 ## financial relevant cognitive biases
 * Anchoring (Don't wait for a bad trade  to break even)
