@@ -1,6 +1,8 @@
 # Pillars-of-Financial-Wisdom
 My Collection  of financial Wisdom for the longtime investor
 
+Diversifikation!
+
 The best way to hedge your risk…is to sell your risk.
 
 invest without forecasts (Exceptions only if you are a leading expert in the topic you are investing in)
