@@ -1,13 +1,12 @@
 # Pillars of Financial Wisdom
 My Collection  of financial Wisdom for the longtime investor
 
-Diversifikation!
-
+## Groundtruthes
+* With Patience and Diversifikation, nothing can go wrong.
+* don't double down on bad trades (DDD)
 The best way to hedge your risk…is to sell your risk.
 
 invest without forecasts (Exceptions only if you are a leading expert in the topic you are investing in)
-
-don't double up on bad trades DDBT
 
 ## stay openmindet
 * don't be a PURE guy, that only trades one topic like Crypto Currency, Gold or other nieche markets, without good couse like a deep expert knowledge
@@ -42,6 +41,9 @@ don't double up on bad trades DDBT
 
 ## Stockmarket is a game of probabilities
 It doesn't only help to understand the mathematical foundations of probabilities, but to get more hands on expierence by learning other games of Chance and Money like Poker. Risk and Moneymanagment are integral parts of this game too. And its way more fun than starrying at charts all day, and making Errors out of Boredom and impatience.
+
+## My Opinions
+* Mainly invest in stable democraticies, they are more consistend
 
 https://corporate.nordea.com/article/67765/global-how-to-position-for-a-clearly-weaker-credit-impulse
 
