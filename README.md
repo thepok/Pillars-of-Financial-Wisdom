@@ -7,7 +7,10 @@ The best way to hedge your risk…is to sell your risk.
 
 invest without forecasts (Exceptions only if you are a leading expert in the topic you are investing in)
 
-don't double up on bad trades
+don't double up on bad trades DDBT
+
+## Tailrisk is real Risk
+* DDBT
 
 ## Can't reliable beat the market, exept with Factor Etfs
 * * Value.
