@@ -10,6 +10,7 @@ invest without forecasts (Exceptions only if you are a leading expert in the top
 don't double up on bad trades DDBT
 
 ## Tailrisk is real Risk
+* Shit hits the fan all the time!
 * DDBT
 
 ## Can't reliable beat the market, exept with Factor Etfs
