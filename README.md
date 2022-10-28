@@ -20,12 +20,12 @@ don't double up on bad trades DDBT
 * DDBT
 
 ## Can't reliable beat the market, exept with Factor Etfs
-* * Value.
-* * Small Caps.
-* * Momentum.
-* * Low Volatility.
-* * Dividenden.
-* * Quality.
+* Value.
+* Small Caps.
+* Momentum.
+* Low Volatility.
+* Dividenden.
+* Quality.
 
 ## financial relevant cognitive biases
 * Anchoring (Don't wait for a bad trade  to break even)
@@ -33,9 +33,9 @@ don't double up on bad trades DDBT
 * Declinism (Be more Optimistic)
 * sunk cost fallacy (aka excalation of commitment)
 * gamblers fallacy
-*  * just because the stock did fall the last nine days, it doesnt has to go up next day. 9 loosing cointosses don't make the next one a winner! (aka dont double loosing trades)
+  * just because the stock did fall the last nine days, it doesnt has to go up next day. 9 loosing cointosses don't make the next one a winner! (aka dont double loosing trades)
 *  survivorship bias
-*  * current market is only made up of companies (not yet) failed. Test your strategy with the historic marketcomposition to include failed stocks too.
+  * current market is only made up of companies (not yet) failed. Test your strategy with the historic marketcomposition to include failed stocks too.
 *  law of triviality (solve the most rewarding problems first, not the easy ones...finding a cheaper broker is less important than finding the right strategy)
 *  Clustering Illusion (we see patterns everyware, even in random data)
 *  blind spot bias (yes you too have all this biases your self, even if you don't see them in you)
