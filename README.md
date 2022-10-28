@@ -40,7 +40,8 @@ don't double up on bad trades DDBT
 *  Clustering Illusion (we see patterns everyware, even in random data)
 *  blind spot bias (yes you too have all this biases your self, even if you don't see them in you)
 
-
+## Stockmarket is a game of probabilities
+It doesn't only help to understand the mathematical foundations of probabilities, but to get more hands on expierence by learning other games of Chance and Money like Poker. Risk and Moneymanagment are integral parts of this game too. And its way more fun than starrying at charts all day, and making Errors out of Boredom and impatience.
 
 https://corporate.nordea.com/article/67765/global-how-to-position-for-a-clearly-weaker-credit-impulse
 
