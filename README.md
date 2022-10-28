@@ -9,6 +9,9 @@ invest without forecasts (Exceptions only if you are a leading expert in the top
 
 don't double up on bad trades DDBT
 
+## Meanreversion is real
+* but the market can be longer (in your maybe foulty opionion) irational as you solvent
+
 ## Tailrisk is real Risk
 * Shit hits the fan all the time!
 * DDBT
