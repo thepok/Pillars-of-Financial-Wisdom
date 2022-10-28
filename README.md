@@ -9,6 +9,9 @@ invest without forecasts (Exceptions only if you are a leading expert in the top
 
 don't double up on bad trades DDBT
 
+## stay openmindet
+* don't be a PURE guy, that only trades one topic like Crypto Currency, Gold or other nieche markets, without good couse like a deep expert knowledge
+
 ## Meanreversion is real
 * but the market can be longer (in your maybe foulty opionion) irational as you solvent
 
