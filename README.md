@@ -3,20 +3,19 @@ My Collection  of financial Wisdom for the longtime investor
 
 ## Groundtruthes
 * With Patience and Diversifikation, nothing can go wrong.
-* don't double down on bad trades (DDD)
-The best way to hedge your risk…is to sell your risk.
-
-invest without forecasts (Exceptions only if you are a leading expert in the topic you are investing in)
+* Don't double down on bad trades (DDD)
+* Invest without forecasts (Exceptions only if you are a leading expert in the topic you are investing in)
+* Review your portfolio regularly and rebalance as necessary. 
 
 ## stay openmindet
-* don't be a PURE guy, that only trades one topic like Crypto Currency, Gold or other nieche markets, without good couse like a deep expert knowledge
+* Don't be a PURE guy, that only trades one topic like Crypto Currency, Gold or other nieche markets, without good couse like a deep expert knowledge
 
 ## Meanreversion is real
 * but the market can be longer (in your maybe foulty opionion) irational as you solvent
 
 ## Tailrisk is real Risk
 * Shit hits the fan all the time!
-* DDBT
+* DDD
 
 ## Can't reliable beat the market, exept with Factor Etfs
 * Value.
