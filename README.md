@@ -7,6 +7,7 @@ My Collection  of financial Wisdom for the longtime investor
 * Don't double down on bad trades (DDD)
 * Invest without forecasts (Exceptions only if you are a leading expert in the topic you are investing in)
 * Review your portfolio regularly and rebalance as necessary. 
+* Let changing facts change your opinion. Not the strongest, but the more adaptives survive!
 
 ## stay openmindet
 * Don't be a PURE guy, that only trades one topic like Crypto Currency, Gold or other nieche markets, without good couse like a deep expert knowledge
