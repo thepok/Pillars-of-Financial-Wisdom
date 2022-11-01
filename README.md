@@ -9,6 +9,7 @@ My Collection  of financial Wisdom for the longtime investor
 
 ## stay openmindet
 * Don't be a PURE guy, that only trades one topic like Crypto Currency, Gold or other nieche markets, without good couse like a deep expert knowledge
+* Don't invest like the Apocalypse is coming. Doomsayer are bad investors.
 
 ## Meanreversion is real
 * but the market can be longer (in your maybe foulty opionion) irational as you solvent
