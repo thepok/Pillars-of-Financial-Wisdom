@@ -3,6 +3,7 @@ My Collection  of financial Wisdom for the longtime investor
 
 ## Groundtruthes
 * With Patience and Diversifikation, nothing can go wrong.
+* time in the market beats timing the market ([Why?](https://seekingalpha.com/article/4535147-time-in-the-market-beats-timing-the-market "More Information"))
 * Don't double down on bad trades (DDD)
 * Invest without forecasts (Exceptions only if you are a leading expert in the topic you are investing in)
 * Review your portfolio regularly and rebalance as necessary. 
