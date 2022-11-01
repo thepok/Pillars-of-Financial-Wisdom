@@ -49,5 +49,3 @@ It doesn't only help to understand the mathematical foundations of probabilities
 https://corporate.nordea.com/article/67765/global-how-to-position-for-a-clearly-weaker-credit-impulse
 
 ![Alt text](FTO2KyqXwAEDXWf[1]?raw=true "Credit Impulse")
-
-![Alt text](FG_m9yjXEAIwGQa[1]?raw=true "Cognitive biases")
