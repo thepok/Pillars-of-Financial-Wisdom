@@ -15,7 +15,7 @@ My Collection  of financial Wisdom for the longtime investor
 * Don't invest like the Apocalypse is coming. Doomsayer are bad investors.
 
 ## Meanreversion is real
-* but the market can be longer (in your maybe foulty opionion) irational as you solvent
+* but the market can be longer irational (are you sure?) as you solvent.
 
 ## Tailrisk is real Risk
 * Shit hits the fan all the time!
