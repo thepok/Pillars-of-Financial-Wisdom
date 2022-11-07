@@ -13,9 +13,13 @@ My Collection  of financial Wisdom for the longtime investor
 ## stay openmindet
 * Don't be a PURE guy, that only trades one topic like Crypto Currency, Gold or other nieche markets, without good couse like a deep expert knowledge
 * Don't invest like the Apocalypse is coming. Doomsayer are bad investors.
+* No shame in being wrong, only in failing to correct our mistakes.
 
 ## Meanreversion is real
 * but the market can be longer irational (are you sure?) as you solvent.
+
+## No Regrets
+* With hintside everithing is easy, but it is resly hard to act rationaly in the heat of the Moment. Don't be to hard on you self, its only obvious after the Fact! 
 
 ## Tailrisk is real Risk
 * Shit hits the fan all the time!
