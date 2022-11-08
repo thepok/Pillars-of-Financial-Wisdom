@@ -10,6 +10,10 @@ My Collection  of financial Wisdom for the longtime investor
 * Let changing facts change your opinion. Not the strongest, but the more adaptives survive!
 * Close a Trade, if you wouldn't also start it right now!
 
+## Financial crisis
+* Don't sell out of fear your quality investments
+  * Or would you sell your house, just becouse of temporery depressed prices? ([More Info](https://www.youtube.com/watch?v=K6OIu-Vzkic))
+
 ## stay openmindet
 * Don't be a PURE guy, that only trades one topic like Crypto Currency, Gold or other nieche markets, without good couse like a deep expert knowledge
 * Don't invest like the Apocalypse is coming. Doomsayer are bad investors.
