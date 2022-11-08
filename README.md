@@ -1,5 +1,5 @@
 # Pillars of Financial Wisdom
-My Collection  of financial Wisdom for the longtime investor
+My Collection  of financial Wisdom for the longtime ETF investor
 
 ## Groundtruthes
 * With Patience and Diversifikation, nothing can go wrong.
