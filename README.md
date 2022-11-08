@@ -11,8 +11,9 @@ My Collection  of financial Wisdom for the longtime investor
 * Close a Trade, if you wouldn't also start it right now!
 
 ## Financial crisis
-* Don't sell out of fear your quality investments
-  * Or would you sell your house, just becouse of temporery depressed prices? ([More Info](https://www.youtube.com/watch?v=K6OIu-Vzkic))
+* Don't sell your high quality investments out of fear.
+  * Would you sell your house, just becouse of temporery depressed prices? ([More Info](https://www.youtube.com/watch?v=K6OIu-Vzkic))
+  * Look at lower stockprices like at a sale in the supermarket and be happy about it.
 
 ## stay openmindet
 * Don't be a PURE guy, that only trades one topic like Crypto Currency, Gold or other nieche markets, without good couse like a deep expert knowledge
