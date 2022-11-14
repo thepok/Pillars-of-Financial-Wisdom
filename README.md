@@ -62,6 +62,7 @@ It doesn't only help to understand the mathematical foundations of probabilities
 ## My Opinions
 * Mainly invest in stable democraticies, they are more consistend
 * savings for a rainy day, help weather the lows with a sane mind
+* Doesn't pay too be a early adaptor. Product (like an ETF) with long good history, is better than new product with excelent but short History(just out of luck).
 
 https://corporate.nordea.com/article/67765/global-how-to-position-for-a-clearly-weaker-credit-impulse
 
