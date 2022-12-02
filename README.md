@@ -9,6 +9,8 @@ My Collection  of financial Wisdom for the longtime ETF investor
 * Review your portfolio regularly and rebalance as necessary. 
 * Let changing facts change your opinion. Not the strongest, but the more adaptives survive!
 * Close a Trade, if you wouldn't also start it right now!
+* "It is insane to risk what you have and need in order to obtain what you don’t need” --- Berkshire 2018 Letter
+
 
 ## Financial crisis
 * Don't sell your high quality investments out of fear.
