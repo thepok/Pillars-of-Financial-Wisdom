@@ -11,3 +11,5 @@ what makes you special? use that.
 it's not the circumstances but how you handle them!
 
 complex plans break - go with the times and situations 
+
+change perspectives frequently - understand the other side, even if you dont agree
