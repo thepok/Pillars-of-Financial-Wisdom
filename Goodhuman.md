@@ -15,3 +15,5 @@ it's not the circumstances but how you handle them!
 complex plans break - go with the times and situations 
 
 change perspectives frequently - understand the other side, even if you dont agree
+
+the world is simple and complicated at the same time
