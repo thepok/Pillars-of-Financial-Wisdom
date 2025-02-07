@@ -1,3 +1,5 @@
+Optimism Optimism Optimism. there's allways a solution.
+
 change what you can change accept what you can't change and be wise to differentiate.
 
 extrems are wrong 
