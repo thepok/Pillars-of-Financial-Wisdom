@@ -21,3 +21,11 @@ change perspectives frequently - understand the other side, even if you dont agr
 the world is simple and complicated at the same time
 
 use senseable priorities
+
+continuous reflection and adjustment
+
+nobody is perfect
+
+Seek other perspectives to refine ideas and avoid blind spots
+
+selfcare!
