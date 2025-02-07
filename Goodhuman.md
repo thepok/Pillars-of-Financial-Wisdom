@@ -2,6 +2,8 @@ Optimism Optimism Optimism. there's allways a solution.
 
 change what you can change accept what you can't change and be wise to differentiate.
 
+20% Exploration and 80% Exploitation
+
 extrems are wrong 
 
 keep the overview
