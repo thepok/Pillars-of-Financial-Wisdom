@@ -31,3 +31,5 @@ Seek other perspectives to refine ideas and avoid blind spots
 selfcare!
 
 be unorthodox
+
+question everything 
