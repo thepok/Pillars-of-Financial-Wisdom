@@ -33,3 +33,5 @@ selfcare!
 be unorthodox
 
 question everything 
+
+dont hate your enemies, it clouds your judgment
