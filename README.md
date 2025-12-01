@@ -10,6 +10,7 @@ My Collection  of financial Wisdom for the longtime ETF investor
 * Let changing facts change your opinion. Not the strongest, but the more adaptives survive!
 * Close a Trade, if you wouldn't also start it right now!
 * "It is insane to risk what you have and need in order to obtain what you don’t need” --- Berkshire 2018 Letter
+* Markets work, costs matter, diversivication is your friend - Merton Miller
 
 
 ## Financial crisis
